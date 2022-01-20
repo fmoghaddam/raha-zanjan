@@ -1032,7 +1032,7 @@ html {
 }
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.42857143;
 	color: #333;
 	background-color: #fff
@@ -1128,7 +1128,7 @@ hr {
 	margin-bottom: 10px
 }
 .h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small {
-	font-size: 65%
+	font-size: 85%
 }
 .h4, .h5, .h6, h4, h5, h6 {
 	margin-top: 10px;
