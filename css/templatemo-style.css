@@ -13,6 +13,7 @@ https://templatemo.com/tm-516-known
     font-family: 'Nunito', sans-serif;
     overflow-x: hidden;
     padding-top: 70px;
+    text-align: right;
   }
 
 
@@ -489,6 +490,7 @@ https://templatemo.com/tm-516-known
 
   .team-info h3 {
     margin: 0;
+    text-align: right;
   }
 
 
